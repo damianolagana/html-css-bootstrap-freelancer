@@ -29,7 +29,22 @@ header{
 
 /* SECTION CARDS */
 
+#SectionCards{
+    height: 1000px;
+}
+
+#SectionCards h2{
+    text-align: center;
+}
+
 .box{
     background-color: red;
 
+
+}
+
+/* SECTION ABOUT */
+
+#SectionAbout{
+    height: 570px;
 }
