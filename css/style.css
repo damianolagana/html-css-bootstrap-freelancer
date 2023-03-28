@@ -5,6 +5,31 @@ header{
     height: 100px;
 }
 
+.bg-VerdeAcqua{
+    background-color: #1abc9c;
+}
 
 
 /* HEADER */
+
+
+
+/************ MAIN ***************/
+
+/* SECTION START BOOTSTRAP */
+
+#StartBoot{
+    height: 700px;
+}
+
+#StartBoot > div{
+    height: 80%;
+}
+
+
+/* SECTION CARDS */
+
+.box{
+    background-color: red;
+
+}
