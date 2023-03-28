@@ -48,3 +48,27 @@ header{
 #SectionAbout{
     height: 570px;
 }
+
+
+/* SECTION CONTACT ME */
+
+#SectionContactMe{
+    height: 800px;
+}
+
+
+/******* FOOTER  *******/
+
+/* SECTION INFO */
+
+#SectionInfo{
+    background-color: #3a546d;
+    height: 250px;
+}
+
+/* SECTION COPYRIGHT */
+
+#SectionCopyright{
+    height: 130px;
+    background-color: #2c3e50;
+}
